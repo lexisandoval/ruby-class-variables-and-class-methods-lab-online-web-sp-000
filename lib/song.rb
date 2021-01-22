@@ -16,7 +16,7 @@ class Song
   end
 
   def self.count
-    @@album_count
+    @@count
   end
 
 
